@@ -8,12 +8,12 @@
         <td align="center" width="130px">
             <a href="https://github.com/syw2045"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/81313733?v=4"></a>
             <br/>
-            <a href="https://github.com/syw2045">syw2045</a>
+            <a href="https://github.com/syw2045">SSong</a>
         </td>
         <td align="center" width="130px">
-            <a href="https://github.com/JJ3rry"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88895587?v=4"></a>
+            <a href="https://github.com/jjerryjoon"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/88895587?v=4"></a>
             <br/>
-            <a href="https://github.com/JJ3rry">JJ3rry</a>
+            <a href="https://github.com/jjerryjoon">JJ3rry</a>
         <td align="center" width="130px">
             <a href="https://github.com/sang"><img height="100px" width="100px" src=""/></a>
             <br/>
