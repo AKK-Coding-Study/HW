@@ -15,7 +15,7 @@
             <br/>
             <a href="https://github.com/jjerryjoon">JJ3rry</a>
         <td align="center" width="130px">
-            <a href="https://github.com/Imagine-Choi"><img height="100px" width="100px" src=""/></a>
+            <a href="https://github.com/Imagine-Choi"><img height="100px" width="100px" src="https://avatars.githubusercontent.com/u/80382025?v=4"/></a>
             <br/>
             <a href="https://github.com/Imagine-Choi">Imagine</a>
         <td align="center" width="130px">
